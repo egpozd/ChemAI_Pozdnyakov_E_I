@@ -23,7 +23,7 @@ ChemAI_Pozdnyakov_E_I/
 │
 ├── README.md
 ├── requirements.txt
-├── ChemAI_solution.ipynb
+├── ChemAI_Pozdnyakov_E_I.ipynb
 ├── submission.csv
 
 
