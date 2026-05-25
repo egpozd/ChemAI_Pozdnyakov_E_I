@@ -19,16 +19,14 @@ index,IC50,CC50,SI
 Рекомендуемая структура проекта:
 
 ```text
-chem-ai-predict-the-cure/
+ChemAI_Pozdnyakov_E_I/
 │
 ├── README.md
 ├── requirements.txt
 ├── ChemAI_solution.ipynb
 ├── submission.csv
-├── presentation.pdf
-│
-└── outputs/
-    └── submission.csv
+
+
 ```
 
 Файлы данных не включаются в репозиторий, так как по условию соревнования они предоставляются отдельно.
