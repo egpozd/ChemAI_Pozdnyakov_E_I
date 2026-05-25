@@ -25,7 +25,7 @@ ChemAI_Pozdnyakov_E_I/
 ├── requirements.txt
 ├── ChemAI_Pozdnyakov_E_I.ipynb
 ├── submission.csv
-
+├── presentation.pdf
 
 ```
 
@@ -274,7 +274,7 @@ jupyter
 
 Итоговые материалы:
 
-- `ChemAI_solution.ipynb` — основной ноутбук с решением;
+- `ChemAI_Pozdnyakov_E_I.ipynb` — основной ноутбук с решением;
 - `submission.csv` — итоговый файл для Kaggle;
 - `presentation.pdf` — презентация проекта;
 - `README.md` — описание подхода и инструкция по воспроизведению;
